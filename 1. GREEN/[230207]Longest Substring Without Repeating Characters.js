@@ -1,5 +1,5 @@
 /**
- * 난이도:MEDIUM
+ * 난이도: MEDIUM
  * https://leetcode.com/problems/longest-substring-without-repeating-characters/
  * 
  * @param {string} s
