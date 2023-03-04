@@ -1,7 +1,7 @@
 /**
  * 난이도: MEDIUM
  * https://leetcode.com/problems/integer-to-roman/
- * 
+ *
  * @param {number} num
  * @return {string}
  */
