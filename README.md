@@ -31,3 +31,4 @@ parseInt() 함수는 문자열을 숫자로 변환할때 atoi를 만족한다
 정규표현식(regEx) 사용방법에 대해 좀 더 자세히 알아보자
 시간복잡도 O(n) 제한의 경우 O(n^2 - 1) 까지 허용범위
 heapQ, heap자료구조에 대해 학습해보자
+galloping의 기본은 binary search!
