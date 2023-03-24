@@ -41,8 +41,7 @@ const isCompleteTree = function (root) {
       checker = false;
     }
 
-    if (!nextNodes.length) return true;
-    return check(nextNodes, checker);
+    return nextNodes.length ? check(nextNodes, checker) : true;
   };
 
   return check([root]);
