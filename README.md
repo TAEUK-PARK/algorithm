@@ -33,3 +33,5 @@ parseInt() 함수는 문자열을 숫자로 변환할때 atoi를 만족한다
 heapQ, heap자료구조에 대해 학습해보자
 galloping의 기본은 binary search!
 binary search 및 그와 유사한 형태의 divide 과정에서 left right mid의 값 설정 및 리턴 조건에 주의
+
+class의 instance인지 확인하는 방법에 대해 더 생각해보기
